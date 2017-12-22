@@ -1,0 +1,30 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "gzgvEqDuC40n5CGizmCXAoQ0SH8=",
+			"path": "github.com/alexflint/go-arg",
+			"revision": "59fccacb2679dde66e0b20ed65bd26178fcbf54e",
+			"revisionTime": "2017-10-03T00:07:17Z"
+		},
+		{
+			"checksumSHA1": "M5vBatiAKUjyLYrb9nS+6QbpEjE=",
+			"origin": "github.com/alexflint/go-arg/vendor/github.com/alexflint/go-scalar",
+			"path": "github.com/alexflint/go-scalar",
+			"revision": "59fccacb2679dde66e0b20ed65bd26178fcbf54e",
+			"revisionTime": "2017-10-03T00:07:17Z"
+		},
+		{
+			"checksumSHA1": "F/QDhEIA/VGeWmaRlIi52jMdu8E=",
+			"path": "github.com/astaxie/beego/orm",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "xmTgJXWHguGKHPuZE50FIbs88L0=",
+			"path": "github.com/go-sql-driver/mysql",
+			"revision": ""
+		}
+	],
+	"rootPath": "code.xiaojukeji.com/tools/mysql-import"
+}
